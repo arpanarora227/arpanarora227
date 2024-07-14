@@ -1,6 +1,6 @@
 ![MasterHead](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lo7pxtvdokrejr21nv67.jpg)
 <h1 align="center">Hi 👋, I'm Arpan Arora</h1>
-<h3 align="center">Aspiring Software Engineer | Lifelong Learning</h3>
+<h3 align="center">Aspiring Software Engineer | Lifelong Learner</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpanarora227&label=Profile%20views&color=0e75b6&style=flat" alt="arpanarora227" /> </p>
