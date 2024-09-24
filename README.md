@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5572.jpg?w=2000)
+![MasterHead](https://static.vecteezy.com/system/resources/previews/006/362/890/original/programming-and-software-development-web-page-banner-program-code-on-screen-device-software-development-coding-process-concept-vector.jpg)
 <h1 align="center">Hi 👋, I'm Arpan Arora</h1>
 <h3 align="center">Aspiring Software Engineer | Lifelong Learner</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
