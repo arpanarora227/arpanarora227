@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpanarora227&label=Profile%20views&color=0e75b6&style=flat" alt="arpanarora227" /> </p>
 
-- 🌱 I’m currently learning **Flutter & ReactJS**
+- 🌱 I’m currently learning **ReactJS, ExpressJS, & Supabase**
 
 - 💬 Ask me about **Python, C# & Front-End Development**
 
